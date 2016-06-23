@@ -4,6 +4,8 @@ From the Prog .NET Tutorials 2016 class "Up and Running with .NET Core" with Tob
 
 This project was created by hand using Visual Studio Code.
 
+Pre reqs: (Minimum) DotNetCore 1.0.0
+
 To build.
 
 cd to root
